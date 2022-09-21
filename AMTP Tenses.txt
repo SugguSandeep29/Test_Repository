@@ -1,0 +1,64 @@
+Tenses 12
+
+Simple Tense
+
+>>> Simple Present Tense 
+    // no ing & ed used 
+    // daily habit
+	Example: I walk everyday
+
+>>> Present Continuous Tense 
+    // ing is used 
+    // something doing in the moment
+    // auxilary verbs - is, am, are
+	Example: I am walking right now 
+
+>>> Present Perfect Tense
+     // Work which finised  recently
+     // perfect - has/have
+     // has/have/had + v3 
+     // ed - is used
+	Example: I have walked recently
+
+>>> Present Perfect Continuous 
+     // uisng has/have & ing
+     // perfect - has/have
+     // ing & have together take place 
+        been must be used
+	Example: I have been working for 3 hours
+
+
+Past Tense 
+
+>>> Simple Past 
+	Example: I walked last night 
+
+>>> Past Continuous 
+	Example: I was walking last night 
+
+>>> Past Perfect
+	Example: I had walked before i slept
+
+>>> Past Perfect Continuous 
+	Example: I had been working when the 
+		 guest arrived
+
+Future Tense
+
+>>> Simple Future 
+	Example: I will go by tommorrow morning 
+
+>>> Future Continuous 
+	Example: I will be walking tomorrow 
+
+>>> Future Perfect 
+	Example: I will have walked by 8 clock
+
+>>> Future Perfect Continuous 
+	Example: I will have been doing the task tomorrow as well
+
+ 
+
+
+
+
